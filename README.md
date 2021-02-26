@@ -3,7 +3,7 @@
 ## Ejercicio: Parte fraccionaria
 
 ## Objetivos
-- Formular una solución efectiva a un problema que incorpora `<recursion>, <user-defined functions>, <iteration>, <conditionals>`.
+- Formular una solución efectiva a un problema que incorpora estructuras de decisión.
 - Interpretar adecuadamente los requisitos de solución de un problema a partir de su descripcion en lenguaje natural.
 - Generar, a partir del análisis del problema:
     - La identificación correcta de las entradas y salidas requeridas, y
@@ -21,9 +21,16 @@
 
 - Codifica tu solución en el archivo [`main.py`](/main.py).
    
-- Utiliza el siguiente ejemplo para dar formato a tus `<user prompt> <output> <file>`:
+- Utiliza el siguiente ejemplo para dar formato a tus entradas y salidas:
   ```
-  <format example>
+  Introduzca un número: 1
+  El número 1 no tiene decimales
+  
+  Introduzca un número: 1.2
+  El número 1.2 sí tiene decimales
+  
+  Introduzca un número: -0.9
+  El número -0.9 sí tiene decimales
   ```
   
 - Prueba tu programa corriéndolo varias veces con diferentes entradas. Verifica que tu algoritmo produzca las salidas correctas. Pon atención especial a los casos que pudieran ser problemáticos de manejar (casos límite).
