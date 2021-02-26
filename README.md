@@ -21,16 +21,16 @@
 
 - Codifica tu solución en el archivo [`main.py`](/main.py).
    
-- Utiliza el siguiente ejemplo para dar formato a tus entradas y salidas:
+- Utiliza los siguientes ejemplos para dar formato a tus entradas y salidas:
   ```
   Introduzca un número: 1
-  El número 1 no tiene decimales
+  No tiene decimales
   
   Introduzca un número: 1.2
-  El número 1.2 sí tiene decimales
+  Sí tiene decimales
   
   Introduzca un número: -0.9
-  El número -0.9 sí tiene decimales
+  Sí tiene decimales
   ```
   
 - Prueba tu programa corriéndolo varias veces con diferentes entradas. Verifica que tu algoritmo produzca las salidas correctas. Pon atención especial a los casos que pudieran ser problemáticos de manejar (casos límite).
