@@ -52,8 +52,6 @@
 ## Entrega
 1. Completa este y el resto de los ejercicios y compila, para cada ejercicio, el enunciado, análisis, diagrama de flujo y código, en un informe tal como se describe en los [requisitos para entrega de tareas](https://canvas.iteso.mx/courses/12856/modules/items/418369) en Canvas. También los puedes consultar [aquí](/report/report_example.pdf). No olvides incluir portada y conclusiones.
 
-1. Complete and submit your program as outlined in this [instructional video](https://youtu.be/SrJ_c8S1_D8).
-
 2. Agrega el diagrama de flujo a la carpeta [`flowchart`](/flowchart) (puedes ver un [ejemplo de cómo se hace](https://youtu.be/oy5nhA7QpNI)).
 
 3. Agrega el informe en PDF a la carpeta [`report`](/report).
