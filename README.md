@@ -1,6 +1,6 @@
-# `Nombre del tema`
+# Estructuras de decisión
 
-## Ejercicio: `<Título del ejercicio>`
+## Ejercicio: Parte fraccionaria
 
 ## Objetivos
 - Formular una solución efectiva a un problema que incorpora `<recursion>, <user-defined functions>, <iteration>, <conditionals>`.
@@ -12,14 +12,12 @@
 - Codificar el algoritmo en un programa correcto de Python.
 - Identificar y ejecutar los casos de prueba pertinentes y suficientes para verificar la funcionalidad de la solución propuesta.
 
-- Recognize, Identify, Select, Analyze, Differentiate, Distinguish, Diagram, Examine, Outline, Subdivide, Understand, Demonstrate, Illustrate, Represent, Interpret, Evaluate, Apply, Assess, Chart, Construct, Develop, Implement, Prepare, Provide, Compute, Contribute, Determine, Establish, Include, Produce, Show, Combine, Design, Make, Plan, Compose, Create, Devise, Formulate, 
-
 ## Instrucciones
 - Elabora el análisis y el algoritmo ***antes de escribir el código***. Utiliza un diagrama de flujo para representar tu algoritmo e ilustrar su lógica.
     - [diagrams.net](https://app.diagrams.net/) es una herramienta gratuita y fácil de usar con la que puedes crear diagramas de flujo. 
     - Puedes ver un ejemplo de como subir diagramas de flujo a GitHub [aquí](https://youtu.be/oy5nhA7QpNI).
 
-- **Diseña un programa para `<...>`**
+- **Diseña un programa para determinar si un número tiene parte fraccionaria (decimales).**
 
 - Codifica tu solución en el archivo [`main.py`](/main.py).
    
@@ -56,9 +54,9 @@
 ## Casos de prueba de ejemplo
 | Entradas | Salidas |
 |:---------|:--------|
-| `entrada11`<br>`entrada12` | `salida11`<br>`salida12`<br>`salida13` |
-| `entrada21` | `salida21`<br>`salida22` |
-| `entrada31`<br>`entrada32`<br>`entrada33`  | `salida21`<br>`salida22` |
+| `1`  | `El número 1 no tiene decimales` |
+| `1.2` | `El número 1.2 sí tiene decimales` |
+| `-0.9`  | `El número -0.9 no tiene decimales` |
 
 ## Rúbrica
 - Presentación: 20%
