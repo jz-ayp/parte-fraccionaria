@@ -61,7 +61,7 @@
 |:---------|:--------|
 | `1`  | `El número 1 no tiene decimales` |
 | `1.2` | `El número 1.2 sí tiene decimales` |
-| `-0.9`  | `El número -0.9 no tiene decimales` |
+| `-0.9`  | `El número -0.9 sí tiene decimales` |
 
 ## Rúbrica
 - Presentación: 20%
