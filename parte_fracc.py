@@ -1,16 +1,15 @@
 """
-Determinar si un número tiene parte fraccionaria
+Inserta el encabezado aquí y escribe tu código abajo
 """
 
-# Entradas
-numero = float(input("Introduzca un número: "))
-	
-# Proceso
-if numero == int(numero):
-	resultado = "No"
-else:
-	resultado = "Sí"
+# Declaraciones
+CONSTANTE = valor
 
-	
+# Entradas
+entrada = input()
+
+# Proceso
+
+
 # Salidas
-print(resultado, "tiene decimales.")
+print(salida)
