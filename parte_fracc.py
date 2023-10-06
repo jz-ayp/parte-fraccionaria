@@ -7,10 +7,10 @@ numero = float(input("Introduzca un número: "))
 	
 # Proceso
 if numero == int(numero):
-	resultado = "no"
+	resultado = "No"
 else:
-	resultado = "sí"
+	resultado = "Sí"
 
 	
 # Salidas
-print("El número", numero, resultado, "tiene parte fraccionaria.")
+print(resultado, "tiene decimales.")
