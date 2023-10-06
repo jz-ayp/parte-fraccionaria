@@ -1,15 +1,16 @@
 """
-Inserta el encabezado aquí y escribe tu código abajo
+Determinar si un número tiene parte fraccionaria
 """
 
-# Declaraciones
-CONSTANTE = valor
-
 # Entradas
-entrada = input()
-
+numero = float(input("Introduzca un número: "))
+	
 # Proceso
+if numero == int(numero):
+	resultado = "no"
+else:
+	resultado = "sí"
 
-
+	
 # Salidas
-print(salida)
+print("El número", numero, resultado, "tiene parte fraccionaria.")
