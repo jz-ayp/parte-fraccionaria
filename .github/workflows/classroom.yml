@@ -3,7 +3,7 @@
     on:
       push:
         paths:
-          - 'main.py'
+          - 'parte_fracc.py'
           - '.github/classroom/autograding.json'
 
     jobs:
